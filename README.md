@@ -8,7 +8,7 @@ Download Broadcom Installer :
 https://github.com/mehedihshakeel/BroadcomInstaller2017.git   
 
 usage :   
-cd Desktop  git clone https://github.com/mehedishakeel/BroadcomInstaller2017.git  
+cd Desktop  git clone https://github.com/mehedihshakeel/BroadcomInstaller2017.git  
 cd BroadcomInstaller2017  
 chmod +x ./Broadcom.sh  
 ./Broadcom.sh
