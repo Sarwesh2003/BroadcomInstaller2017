@@ -12,6 +12,8 @@ cd Desktop  git clone https://github.com/mehedihshakeel/BroadcomInstaller2017.gi
 cd BroadcomInstaller2017  
 chmod +x ./Broadcom.sh  
 ./Broadcom.sh
+//OR you can excute it as
+bash Broadcom.sh
 
 1) Install Wifi Driver
 2) Show Commands
